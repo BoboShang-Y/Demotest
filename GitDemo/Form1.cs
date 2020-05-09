@@ -15,6 +15,12 @@ namespace GitDemo
         public Form1()
         {
             InitializeComponent();
+            //three commit
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
